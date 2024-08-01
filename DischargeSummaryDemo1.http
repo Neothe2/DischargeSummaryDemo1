@@ -1,0 +1,6 @@
+@DischargeSummaryDemo1_HostAddress = http://localhost:5010
+
+GET {{DischargeSummaryDemo1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
